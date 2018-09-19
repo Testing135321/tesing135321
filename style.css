@@ -1,0 +1,84 @@
+
+h1 {
+	color: black;
+    font-family: oswald;
+    text-align: center;
+    text-decoration: underline overline;
+    font-size: 50px
+}
+header h2 {
+	color: black;
+    font-family: sans-serif;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 30px ;
+}
+h2 {
+	color: black;
+    font-family: sans-serif;
+    text-align: left;
+    font-size: 30px ;
+}
+header img{
+	border-radius: 500px;
+	width: 100px ;
+	height: 100px
+}
+img{
+	width: 300px; 
+	height: 200px;
+}
+header{
+	text-align: left;
+	color: white;
+	padding: 30px;
+	margin: 10px;
+	margin-bottom: 10px	
+	font-size: 30px;
+	border-radius: 30px
+}
+body{
+	Background-color: #DCAB6B;
+}
+section{
+	padding: 20px;
+	border: 60px; text-decoration-style: dashed;
+	background-color: #FFFFB3 ;
+	color: black;
+	border-radius: 30px ;
+	margin: 20px;	
+	font-size: 20px;	
+}
+
+
+
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+ }
+.content {
+    position: fixed;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 100%;
+    padding: 20px;
+ }
+ #myBtn {
+    width: 200px;
+    font-size: 18px;
+    padding: 10px;
+    border: none;
+    background: #000;
+    color: #fff;
+    cursor: pointer;
+}
+#myBtn:hover {
+    background: #ddd;
+    color: black;
+}  
+
+
